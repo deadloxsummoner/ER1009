@@ -1,6 +1,7 @@
-import Banner from '../assets/banner.png'
-import Long from '../assets/long.png'
-import Short from '../assets/short.png'
+import Banner from './assets/banner.png'
+import Long from './assets/long.png'
+import Short from './assets/short.png'
+
 
 function Home () {
    const PhisbolLink = () => {
